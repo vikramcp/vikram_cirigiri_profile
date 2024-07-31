@@ -99,5 +99,5 @@ Estimated as a 300 man year project, NGCS or “SkyChain Reservations & Operatio
 - **Contact Number :** +91-9989795599
 - **Email Address :** info@zetabytes.in
 - **Skype :** vikram.cp_1
-- **Linked in :** in.linkedin.com/in/vikramcirigiri/
+- **Linked in :** https://www.linkedin.com/in/vikramcirigiri/
 - **Upwork :** https://www.upwork.com/fl/vikramcirigiri
