@@ -39,7 +39,7 @@ By bridging the gap between complex technical requirements and strategic busines
 
 ## Projects
 
-### [Core-Strategy](www.core-strategy.us)
+### [Core-Strategy](https://www.core-strategy.us)
 Core strategy is a strategy management software which allows enterprises to align everyone in real-time with the organizations long term strategic vision, and planning. CoreStrategy allows organizations to continuously monitor and evaluate the progress being made and correct themselves if required, which ensure long term success of their organization. I am currently the chief architect of this project, and have been working with this team from 2020 onwards.
 
 #### Role
